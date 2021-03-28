@@ -2,6 +2,10 @@
 A collection of executable scripts to download a variety of tools, based on Ubuntu 20.04.
 
 ## How to use these scripts
+### If you don't already have git installed, just run the following on your terminal
+> sudo apt update -y
+> sudo apt install git -y
+> git --version
 1. Clone down this repository
 > git clone https://github.com/abusyd1/Installation-Scripts-Linux.git
 
