@@ -1,3 +1,4 @@
+#!/bin/sh
 #Install ansible
 sudo apt update -y
 sudo apt install software-properties-common
