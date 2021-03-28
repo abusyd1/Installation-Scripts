@@ -16,7 +16,7 @@ A collection of executable scripts to download a variety of tools, based on Ubun
 > cd Installation-Scripts-Linux
 
 ## 3. You may need to add execute permissions for the scripts. You can simply copy the following command and all scripts will have execute permissions:
-> chmod +x install-awscli.sh install-docker.sh install-eksctl.sh install-flask.sh install-jenkins.sh install-kubectl.sh install-mysql-client.sh install-python3.sh install-terraform.sh
+> chmod +x *.sh
 
 ## 4. Simply run the following in your terminal (replacing <script_name> with the name of the script)
 > ./<script_name>
