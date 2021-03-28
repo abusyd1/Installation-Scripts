@@ -15,7 +15,7 @@ A collection of executable scripts to download a variety of tools, based on Ubun
 ## 2. Enter the cloned directory
 > cd Installation-Scripts-Linux
 
-## 3. You may need to add execute permissions for the scripts. You can simply copy the following command and all scripts will have execute permissions:
+## 3. You may need to add execute permissions for the scripts. You can simply run the following command and all scripts will have execute permissions:
 > chmod +x *.sh
 
 ## 4. Simply run the following in your terminal (replacing <script_name> with the name of the script)
